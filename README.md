@@ -1,9 +1,9 @@
 [![wakatime](https://wakatime.com/badge/user/e6445f37-8941-46e4-bae4-63378c6e7e7a.svg)](https://wakatime.com/@e6445f37-8941-46e4-bae4-63378c6e7e7a)
 
 # Pomocha
-![](https://taap.it/pomocha.io)<br/>
-![](https://taap.it/pomocha.fr)<br/>
-![](https://taap.it/pomocha-extension-web)<br/>
+- 🌐 [pomocha.io](https://taap.it/pomocha.io)
+- 🇫🇷 [pomocha.fr](https://taap.it/pomocha.fr)
+- 🧩 [Extension Web](https://taap.it/pomocha-extension-web)
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alexis-guerquin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
