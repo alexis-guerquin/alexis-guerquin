@@ -2,8 +2,8 @@
 
 # Pomocha
 - 🌐 [pomocha.io](https://taap.it/pomocha.io)
-- 🇫🇷 [pomocha.fr](https://taap.it/pomocha.fr)
 - 🧩 [Extension Web](https://taap.it/pomocha-extension-web)
+- 🌐 [focus-train - comming soon](https://focus-train.fr/)
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alexis-guerquin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
